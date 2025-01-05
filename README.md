@@ -1,6 +1,8 @@
 # RAWPAR
 Parallel analysis of eigenvalues (for raw data) Use RAWPAR (EFA.dimensions) With (In) R Software
 
+https://www.youtube.com/watch?v=bhlkrnt-4bI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
